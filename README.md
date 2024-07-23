@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=005b96&height=120&section=header"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Tilt+Neon&color=6497b1&size=28&center=true&vCenter=true&width=1000&lines=Hi!;My+name+is+Luís+Augusto;I'm+18+years+old;I'm+from+Brazil;I'm+Graduating+in+Computer+Science;at+PUC+Minas+University" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Tilt+Neon&color=6497b1&size=28&center=true&vCenter=true&width=1000&lines=Hi,+welcome!;My+name+is+Douglas+Nícolas;I'm+22+years+old;I'm+from+Brazil;I'm+Graduating+in+Computer+Science;at+PUC+Minas+University;" alt="Typing SVG" /></a>
 
 
 <div align="center">  
@@ -20,7 +20,7 @@
 ![Phyton](https://img.shields.io/badge/-Phyton-0D1117?style=for-the-badge&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 <!--!
-## Contatos
+## Contact
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.google.com)
 [![portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.google.com)
 -->
