@@ -1,16 +1,22 @@
-## Hi there 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=005b96&height=120&section=header"/>
 
-<!--
-**dominicsg/dominicsg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Tilt+Neon&color=6497b1&size=28&center=true&vCenter=true&width=1000&lines=Hi!;My+name+is+Luís+Augusto;I'm+18+years+old;I'm+from+Brazil;I'm+Graduating+in+Computer+Science;at+PUC+Minas+University" alt="Typing SVG" /></a>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=dominicsg&show_icons=true&count_private=true&hide_border=true&title_color=6497b1&icon_color=6497b1&text_color=b3cde0&bg_color=0d1117" alt="." /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dominicsg&layout=compact&hide_border=true&title_color=6497b1&text_color=b3cde0&bg_color=0d1117" />
+</div>
+
+#### Main skills:
+![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
+![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&labelColor=0D1117&textColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&labelColor=0D1117&textColor=0D1117)&nbsp;
+<!--![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&labelColor=0D1117&textColor=0D1117)&nbsp;-->
+
+#### Studying in this moment:
+![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
+![Verilog](https://img.shields.io/badge/-Verilog-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=005b96&height=120&section=footer"/>
