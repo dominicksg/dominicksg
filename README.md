@@ -16,7 +16,6 @@
 <!--!![portfolio](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) -->
 
 #### Studying in this moment:
-![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Phyton](https://img.shields.io/badge/-Phyton-0D1117?style=for-the-badge&labelColor=0D1117&textColor=0D1117)&nbsp;
 
