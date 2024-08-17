@@ -17,7 +17,7 @@
 
 #### Studying in this moment:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Phyton](https://img.shields.io/badge/-Phyton-0D1117?style=for-the-badge&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Python](https://img.shields.io/badge/-Phyton-0D1117?style=for-the-badge&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 <!--!
 ## Contact
